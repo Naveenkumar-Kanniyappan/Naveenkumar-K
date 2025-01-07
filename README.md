@@ -3,7 +3,7 @@
 -->
 
 # 👨‍💻 About Me:
-Hi, I'm **Naveenkumar Kanniyappan**. I am passionate about coding and technology. Here's a quick look at my technical skills:
+Hi, I'm **Naveenkumar Kanniyappan**, a passionate web developer. I am currently learning as a **Full Stack Web Developer Trainee** at **DCKAP Palli**. I’m excited to grow my skills in web development and contribute to real-world projects. Here's a quick look at my technical skills:
 
 ## 🖥️ Technical Skills:
 <p align="left">
@@ -25,7 +25,7 @@ Hi, I'm **Naveenkumar Kanniyappan**. I am passionate about coding and technology
 ![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🎨 Fun Fact
